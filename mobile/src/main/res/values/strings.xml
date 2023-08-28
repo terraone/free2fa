@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><!--
-   - FreeOTP
+   - Free2FA
    -
    - Authors: Nathaniel McCallum <npmccallum@redhat.com>
    -
@@ -19,7 +19,7 @@
    -->
 
 <resources>
-    <string name="app_name">FreeOTP</string>
+    <string name="app_name">Free2FA</string>
 
     <!-- Buttons -->
     <string name="ok">Ok</string>
